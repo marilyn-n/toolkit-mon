@@ -20,11 +20,11 @@
 <b> this is an example of tt</b>
 <style>
 .ravi {
-  
+  color: blue;
 }
 </style>
 
-<p>[% email %]</p>
+<p class="ravi">[% email %]</p>
   <p></p>
 </body>
 </html>
